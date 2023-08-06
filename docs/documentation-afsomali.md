@@ -2,7 +2,7 @@
 
 ### KU AQRI AF-SOOMAALI
 
-**Ku soo dhawow LUUQAD oo ah open source project ah**
+**Ku soo dhawow LUUQAD oo ah open source project **
 
 ![LUUQAD Logo](/public/luuqad.png)
 

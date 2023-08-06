@@ -25,9 +25,9 @@ export default async function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className={dosis.className}>
+    <html lang='en' className={dosis.className}>
       <Providers>
-        <body className={"flex flex-col justify-between min-h-screen gap-10"}>
+        <body className={"flex flex-col justify-between min-h-screen"}>
           <ToastContainerBar />
           <Navbar />
           {children}

@@ -45,6 +45,8 @@ Please read and adhere to our [Code of Conduct](docs/CODE_OF_CONDUCT.md) to ensu
 
 ## Contributing Guidelines
 
+[![luuqad](https://img.youtube.com/vi/1kymX200Mp8/0.jpg)](https://www.youtube.com/watch?v=1kymX200Mp8)
+
 If you wish to contribute to Luuqad, please review our [Contributing Guidelines](docs/CONTRIBUTING.md) for more information on how to get involved.
 
 ## Style Guidelines
